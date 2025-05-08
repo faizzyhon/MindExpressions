@@ -43,7 +43,20 @@ Built with React + TypeScript + Vite, powered by TensorFlow.js, Firebase, and mo
 | **Lottie / Rive**| Animated feedback                     |
 
 ---
+## 👨‍💻 Developer Info
+Built with ❤️ by FaizzyHon
 
+💼 AI Engineer | React & Next.js Developer | CEH Certified
+
+🔗 GitHub: github.com/faizzyhon
+
+🔗 LinkedIn: linkedin.com/in/mfaizanai
+
+📸 Instagram: @faizzyhon
+
+📅 Book a Meeting: Calendly
+
+🛒 Buy Source Code / Donate: PocketsFlow
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repo
@@ -97,37 +110,8 @@ Copy
 Edit
 npm run build
 Deploy the dist/ folder to Hostinger or any static hosting provider.
-
-📷 Assets and AI Models
+---
+## 📷 Assets and AI Models
 You may use Generated Photos or This Person Does Not Exist for initial faces.
 
 For webcam expression matching: TensorFlow.js pre-trained models like face-landmarks-detection or blazeface.
-
-👨‍💻 Developer Info
-Built with ❤️ by FaizzyHon
-
-💼 AI Engineer | React & Next.js Developer | CEH Certified
-
-🔗 GitHub: github.com/faizzyhon
-
-🔗 LinkedIn: linkedin.com/in/mfaizanai
-
-📸 Instagram: @faizzyhon
-
-📅 Book a Meeting: Calendly
-
-🛒 Buy Source Code / Donate: PocketsFlow
-
-🧠 Why Play?
-MindExpressions trains both your reflexes and emotional intelligence — making it more than a game, it's a brain gym with style.
-
-"Feel fast. Think faster."
-
-📜 License
-MIT – Use freely, mention the original author when publishing public forks.
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like the full **starter project template**, component structure, or codebase zip 
